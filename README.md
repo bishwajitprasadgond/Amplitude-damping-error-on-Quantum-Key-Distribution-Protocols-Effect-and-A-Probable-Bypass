@@ -10,8 +10,8 @@ _Keywords— **Quantum Cryptography, Quantum Information, Qiskit, BB84, E91, Max
 
 
 ## Contributers
->[Bishwajit Prasad Gond](https://github.com/bishwajitprasadgond);
 >[Munsi Afif Aziz](https://github.com/Aziz58l);
+>[Bishwajit Prasad Gond](https://github.com/bishwajitprasadgond);
 >[Srijita N](https://github.com/JinXy2001);
 >Ritajit M;
 >Debosmita B;
