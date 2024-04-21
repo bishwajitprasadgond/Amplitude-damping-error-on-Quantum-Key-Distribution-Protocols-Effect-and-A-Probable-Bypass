@@ -5,8 +5,23 @@ Quantum Cryptography opened a new horizon in the field of cryptography. From the
 _Keywords— **Quantum Cryptography, Quantum Information, Qiskit, BB84, E91, Maximally Entangle, Bases, Depolarization, Kraus Operators**_
 
 
+## Citation
 
+If you use this code or find our work helpful in your research, please consider citing our paper:
 
+```
+
+@article{aziz2023amplitude,
+title={Amplitude damping error on QKD: Effect and a probable bypass},
+author={Aziz, Munsi Afif and Gond, Bishwajit Prasad and Nandi, Srijita and Ray, Soujanya and Bhoumik, Debasmita and Majumdar, Ritajit},
+journal={Modern Physics Letters A},
+volume={38},
+number={10n11},
+pages={2350058},
+year={2023},
+publisher={World Scientific}
+}
+```
 
 
 ## Contributers
